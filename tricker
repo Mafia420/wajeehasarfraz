@@ -120,7 +120,7 @@ print  """\033[1;91m
 print " \x1b[1;93m============================================================="
 
 CorrectUsername = "wajeeha"
-CorrectPassword = "tricker"
+CorrectPassword = "sarfraz"
 
 loop = 'true'
 while (loop == 'true'):
